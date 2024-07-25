@@ -1,0 +1,10 @@
+chromadb # Vector storage
+jieba
+langchain
+langchain_community
+langchain_openai
+pypdf
+pymupdf
+python-dotenv
+rouge_chinese
+streamlit
